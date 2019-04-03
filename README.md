@@ -3,7 +3,19 @@
 
 ### TODO
 1. 用户信息管理系统  
+```
+- beego 方式
+- API接口（GET、POST、DEL、PUT)
+- 信息（Name、Sex、Department、Job）
+- Redis（KV）
+```
 2. 个人收支记录软件  
+```
+- Web input
+- Web list
+- Search（keywords)
+- DB（MySQL）
+```
 3. golang实现聊天室  
 4. golang实现博客  
 5. golang实现api操作，实现swagger文档输出以及默认model的curd操作  
